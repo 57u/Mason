@@ -99,7 +99,7 @@ $("#container").mason({
 	</li>
 	<li><strong>promoted</strong>
 		<ul>
-		<li>Accepts an array of ['CLASS_NAME', WIDTH, HEIGHT] these items will be forced to those dimentsions.</li>
+		<li>Accepts an array of ['CLASS_NAME', WIDTH, HEIGHT] these items will be forced to those dimensions.</li>
 		</ul>
 	</li>
 	<li><strong>Layout</strong>
